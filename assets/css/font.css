@@ -11,3 +11,7 @@
        url('sarabun-v13-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
        url('sarabun-v13-latin-regular.svg#Sarabun') format('svg'); /* Legacy iOS */
 }
+.inactiveLink {
+  pointer-events: none;
+  cursor: default;
+}
